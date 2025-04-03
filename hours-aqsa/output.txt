@@ -1,0 +1,66 @@
+250101 250101 dayHhmm=08:55
+=====
+250102 250102 dayHhmm=07:20
+=====
+250103 No sessions
+250104 No sessions
+250105 250105 dayHhmm=07:55
+=====
+250106 250106 dayHhmm=07:25
+=====
+250107 250107 dayHhmm=07:10
+=====
+250108 250108 dayHhmm=07:00
+=====
+250109 250109 dayHhmm=06:05
+=====
+250110 250110 dayHhmm=07:35
+=====
+250111 250111 dayHhmm=04:55
+=====
+250112 250112 dayHhmm=08:15
+=====
+250113 250113 dayHhmm=07:30
+=====
+250114 250114 dayHhmm=06:20
+=====
+250115 250115 dayHhmm=07:25
+=====
+250116 250116 dayHhmm=07:30
+=====
+250117 250117 dayHhmm=05:05
+=====
+250118 250118 dayHhmm=05:00
+=====
+250119 250119 dayHhmm=06:55
+=====
+250120 250120 dayHhmm=06:15
+=====
+250121 250121 dayHhmm=07:10
+=====
+250122 250122 dayHhmm=07:10
+=====
+250123 250123 dayHhmm=07:25
+=====
+250124 250124 dayHhmm=07:30
+=====
+250125 250125 dayHhmm=06:50
+=====
+250126 250126 dayHhmm=08:25
+=====
+250127 250127 dayHhmm=07:15
+=====
+250128 250128 dayHhmm=07:00
+=====
+250129 250129 dayHhmm=06:50
+=====
+250130 250130 dayHhmm=06:20
+=====
+250131 250131 dayHhmm=05:45
+=====
+Month total hhmm = 20215 in 31 days
+Month total hours = 202.25 in 31 days
+Month total for 7hours a day = 217 hours
+Month missing hours = 14.75 hours
+Percentage of GBP200 to return = 6.79724%
+At GBPPKR=347, PKR to return is 4717.28

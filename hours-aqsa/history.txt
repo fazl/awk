@@ -1,0 +1,3 @@
+  286  cd /cygdrive/d/sandbox/qwork/mum/bills/carers/
+  288  awk -f aqsa*awk < aqsa*txt > out.txt && diff out.txt output.txt |less
+  289  mv out.txt output.txt 
