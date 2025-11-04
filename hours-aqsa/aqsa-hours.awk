@@ -1,3 +1,6 @@
+# TODO Understand / test why total worked hours can be 3 digits or more without breaking code
+# TODO Factor out helper functions from longer ones
+# TODO Find an elegant replacement for TRACE using an array argument
 
 #03/11/2025 Convenience: Allow sessions of form hhmm-MM (if hour part same)
 
